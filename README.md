@@ -3,7 +3,7 @@
 This repository hosts my **academic web CV**, deployed as a static website using **GitHub Pages**.
 
 🌐 **Live website:**  
-https://aminfoshati.github.io
+https://a.github.io/me
 
 📄 **Academic CV (PDF):**  
 https://aminfoshati.github.io/Amin Foshati-University.pdf
