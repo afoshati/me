@@ -17,7 +17,4 @@ I am a **University Lecturer and Researcher** specializing in:
 
 My work focuses on fault tolerance, digital twins, and reliable computing architectures across embedded processors, FPGAs, GPUs, and multicore systems.
 
----
-
-## Repository Structure
 
