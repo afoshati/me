@@ -1,12 +1,12 @@
 # Amin Foshati – Academic Web CV
 
-This repository hosts my **public academic CV website**, built as a lightweight static page and deployed via **GitHub Pages**.
+This repository hosts my **academic web CV**, deployed as a static website using **GitHub Pages**.
 
 🌐 **Live website:**  
-[https://aminfoshati.github.io](https://afoshati.github.io/me/)
+https://aminfoshati.github.io
 
 📄 **Academic CV (PDF):**  
-[https://aminfoshati.github.io/Amin_Foshati_Academic_CV.pdf](https://afoshati.github.io/me/)
+https://aminfoshati.github.io/Amin%20Foshati-University.pdf
 
 ---
 
@@ -18,4 +18,9 @@ I am a **University Lecturer and Researcher** specializing in:
 - Cyber-Physical Systems (CPS)  
 - Dependable and Safety-Critical Computing  
 
-My research interests include fault tolerance, digital twins, and reliable computing archite
+My work focuses on fault tolerance, digital twins, and reliable computing architectures across embedded processors, FPGAs, GPUs, and multicore systems.
+
+---
+
+## Repository Structure
+
